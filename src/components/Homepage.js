@@ -17,7 +17,7 @@ const Homepage = () => {
       <header>
       <i class="fab fa-apple">
         <a href="#" class="logo">
-          <span> Iphone</span>13
+          <span> Iphone</span>13 Pro Max
         </a></i>
         <input type="checkbox" id="menu-bar" />
         <label for="menu-bar" class="fas fa-bars"></label>
