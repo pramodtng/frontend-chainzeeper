@@ -71,9 +71,7 @@ const Homepage = () => {
             <img src={features2} alt="" />
             <h3>Improved Technology</h3>
             <p>
-              Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ullam
-              minus recusandae autem, repellendus fugit quaerat provident
-              voluptatum non officiis ratione.
+            The screen is notably better than last year’s. It’s the first iPhone with Apple’s ProMotion display, a very high refresh-rate screen technology that was introduced on the iPad Pro in 2017.
             </p>
             <a href="#" class="btn">
               read more
@@ -84,9 +82,7 @@ const Homepage = () => {
             <img src={features3} alt="" />
             <h3>Friendly interactions</h3>
             <p>
-              Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ullam
-              minus recusandae autem, repellendus fugit quaerat provident
-              voluptatum non officiis ratione.
+            The App Library automatically organizes all of a user’s apps into one simple, easy-to-navigate view, and intelligently surfaces apps that may be helpful in the moment. 
             </p>
             <a href="#" class="btn">
               read more
